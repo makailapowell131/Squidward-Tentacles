@@ -1,0 +1,60 @@
+body {
+    background-image: linear-gradient(to right, #76bdd5, #ccccff);
+}
+
+h1 {
+    font-family: 'Sofia', cursive;
+}
+
+.squidward {
+    display: flex;
+    justify-content: center;
+    border: 18px groove #33ccff;
+    padding: 6px;
+    margin: 8px;
+    background-color: #99ccff;
+}
+
+.octopus {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    border: 12px groove #cc66ff;
+    padding: 16px;
+    margin: 8px;
+}
+
+h3 {
+    font-family: 'Playfair Display', serif;
+    border: 10px outset #004de6;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 470px;
+    justify-content: flex-end;
+}
+
+.serious {
+    justify-content: flex-end;
+    border: 10px #8000ff outset;
+}
+
+.clarinet {
+    justify-content: flex-end;
+    border: 10px #ff00ff outset;
+    padding: 10px;
+}
+
+.ink {
+    justify-content: flex-end;
+    border: 10px #b84dff outset;
+}
+
+.painting {
+    justify-content: flex-end;
+    border: 10px #804000 outset;
+}
